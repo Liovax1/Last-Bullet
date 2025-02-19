@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/ithappy/Creative_Characters_FREE/Scripts/Character_Controller
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/ithappy/Creative_Characters_FREE/Scripts/Character_Controller
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\liova\OneDrive\Bureau\Dev\CSharp_Unity\TP2\UnityCourses
+  m_LastProjectPath: C:\Users\liova\OneDrive\Bureau\Jeux\Last Bullet
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 597.2}
-    m_SelectedIDs: dca60000
-    m_LastClickedID: 42716
-    m_ExpandedIDs: 
+    scrollPos: {x: 0, y: 173.20001}
+    m_SelectedIDs: f2c90000
+    m_LastClickedID: 51698
+    m_ExpandedIDs: 000000003ea7000040a70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000003ea7000040a70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -473,7 +473,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b627fbffce27fbff622afbff7c2afbff3833fbff7a3dfbff923dfbff2a40fbff4840fbff9e44fbffea4afbffd04ffbffcc5cfbff165dfbffc65dfbff1a6afbfff084fbff8ed5fbff6ef8fcff46fefcffb86bfdff066dfdffe479fdff0287fdffba74feffe237ffff0c70ffff3e95ffff3296ffffc4deffffa2eaffff68ebffffa8ebffff7eecffff18edffffa0eeffff46efffff20fbffffeea80000f8270100303801002a5b0100345b01005e5b0100546001006860010034620100e2700100f6700100
+      m_ExpandedIDs: ba1dffff3847ffff7080ffff6881ffffb088ffff20f2ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1077,9 +1077,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -0.17786175, y: 0.98247766, z: -0.28988075}
     speed: 2
-    m_Value: {x: -2.7782376, y: 4.878379, z: -0.7195826}
+    m_Value: {x: -0.17786175, y: 0.98247766, z: -0.28988075}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1107,17 +1107,17 @@ MonoBehaviour:
       m_Size: {x: 0, y: 0}
     yGrid:
       m_Fade:
-        m_Target: 0
+        m_Target: 1
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
-        m_Target: 1
+        m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -1125,17 +1125,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: 0.0025129472, y: -0.9426851, z: 0.33368492, w: 0.0070736622}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: -0.002512947, y: 0.94268507, z: -0.33368492, w: -0.0070736622}
   m_Size:
-    m_Target: 10
+    m_Target: 1.5089929
     speed: 2
-    m_Value: 47.601246
+    m_Value: 1.5089929
   m_Ortho:
     m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1.0005
     m_SpeedNormalized: 0.49999997
@@ -1246,14 +1246,14 @@ MonoBehaviour:
       width: 881.2
       height: 433
     m_Scale: {x: 1.6063044, y: 1.6063043}
-    m_Translation: {x: 424.92645, y: 225.31758}
+    m_Translation: {x: 424.92657, y: 225.31758}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -264.53668
+      x: -264.53677
       y: -140.2708
       width: 548.58844
       height: 269.56287
